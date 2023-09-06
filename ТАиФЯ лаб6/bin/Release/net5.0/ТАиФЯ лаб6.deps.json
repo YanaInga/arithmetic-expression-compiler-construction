@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ТАиФЯ лаб6/1.0.0": {
+        "runtime": {
+          "ТАиФЯ лаб6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ТАиФЯ лаб6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\bin\Release\net5.0\ТАиФЯ лаб6.exe
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\bin\Release\net5.0\ТАиФЯ лаб6.deps.json
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\bin\Release\net5.0\ТАиФЯ лаб6.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\bin\Release\net5.0\ТАиФЯ лаб6.runtimeconfig.dev.json
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\bin\Release\net5.0\ТАиФЯ лаб6.dll
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\bin\Release\net5.0\ref\ТАиФЯ лаб6.dll
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\bin\Release\net5.0\ТАиФЯ лаб6.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\obj\Release\net5.0\ТАиФЯ лаб6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\obj\Release\net5.0\ТАиФЯ лаб6.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\obj\Release\net5.0\ТАиФЯ лаб6.AssemblyInfo.cs
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\obj\Release\net5.0\ТАиФЯ лаб6.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\obj\Release\net5.0\ТАиФЯ лаб6.dll
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\obj\Release\net5.0\ref\ТАиФЯ лаб6.dll
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\obj\Release\net5.0\ТАиФЯ лаб6.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\obj\Release\net5.0\ТАиФЯ лаб6.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2019\Projects\ТАиФЯ лаб6\ТАиФЯ лаб6\obj\Release\net5.0\ТАиФЯ лаб6.csproj.AssemblyReference.cache
